@@ -5,7 +5,7 @@
 
 ##
 
-* E1:LanguageModel
+* E1: LanguageModel
 
 ## 联系
 > QQ:862077860
